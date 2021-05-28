@@ -19,8 +19,8 @@
   "characters": [
     {
       "id": 1,
-      "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/characters/1.jpg",
-      "aimage": "https://nextgent.s3.us-west-1.amazonaws.com/ff/characters/1a.jpg",
+      "image": "https://raw.githubusercontent.com/chuong2v/files/main/infamy.png",
+      "aimage": "https://raw.githubusercontent.com/chuong2v/files/main/infamy.png",
       "name": "Dasha",
       "sex": "female",
       "age": 25,
